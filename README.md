@@ -1,3 +1,2 @@
-# hello-world
-just trying
-just branching learning and chill
+# first repo
+some docs
